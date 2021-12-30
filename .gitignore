@@ -48,4 +48,4 @@ Temporary Items
 .apdisk
 /.idea/vcs.xml
 .idea
-/.idea
+/.idea/*
