@@ -1,4 +1,4 @@
-module go-redis-streams
+module github.com/tobhoster/go-redis-streams
 
 go 1.17
 
